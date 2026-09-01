@@ -28,13 +28,4 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Peinture
-  slug: peinture
-  target: "/peinture/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/peinture"
-  file: content/fr/pages/peinture/_index.html
 
