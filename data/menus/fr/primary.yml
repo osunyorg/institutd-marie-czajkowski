@@ -10,8 +10,8 @@ items:
   descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Personnes
-  slug: personnes
+- title: A propos
+  slug: a-propos
   target: "/personnes/"
   kind: page
   new_tab: false
@@ -19,8 +19,8 @@ items:
   descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Organisations
-  slug: organisations
+- title: Contact
+  slug: contact
   target: "/organisations/"
   kind: page
   new_tab: false
